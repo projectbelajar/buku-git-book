@@ -1,2 +1,1 @@
-# buku-git-book
-ini adalah buku git, bisa anda gunakan
+https://git-scm.com/book/id/v2
